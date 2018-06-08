@@ -1,0 +1,71 @@
+2018-04-22 07:37:36 INFO  TestBase:39 - Creating object of : firefox
+2018-04-22 07:37:45 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-04-22 07:37:56 INFO  TC001_VerifyLoginWithInvalidCredentials:28 - *************Starting verifyLoginWithInvalidCredentials Test*************
+2018-04-22 07:37:59 INFO  HomePage:38 - Clicked on signIn and Object is :[[FirefoxDriver: firefox on XP (f404efb1-b870-47de-9bdd-5710b0d6d15b)] -> xpath: /html/body/div/div[1]/header/div[2]/div/div/nav/div[1]/a]
+2018-04-22 07:37:59 INFO  HomePage:41 - Entered email adderss :test@gmail.com and Object is :[[FirefoxDriver: firefox on XP (f404efb1-b870-47de-9bdd-5710b0d6d15b)] -> xpath: //*[@id='email']]
+2018-04-22 07:37:59 INFO  HomePage:44 - Entered Password : passwordq23e and Object is : [[FirefoxDriver: firefox on XP (f404efb1-b870-47de-9bdd-5710b0d6d15b)] -> id: passwd]
+2018-04-22 07:38:02 INFO  HomePage:47 - Clicked Submit button and Object is :[[FirefoxDriver: firefox on XP (f404efb1-b870-47de-9bdd-5710b0d6d15b)] -> id: SubmitLogin]
+2018-04-22 07:38:02 INFO  HomePage:52 - Error Message is : Authentication failed.
+2018-04-22 07:38:02 INFO  TC001_VerifyLoginWithInvalidCredentials:33 - *************Finished verifyLoginWithInvalidCredentials Test*************
+2018-04-22 22:46:44 INFO  TestBase:39 - Creating object of : firefox
+2018-04-22 22:47:12 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-04-22 22:50:53 INFO  TestBase:39 - Creating object of : firefox
+2018-04-22 22:51:07 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-04-22 22:53:19 INFO  TestBase:39 - Creating object of : firefox
+2018-04-22 22:53:29 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-04-23 07:19:08 INFO  TestBase:39 - Creating object of : firefox
+2018-04-23 07:19:22 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-04-23 07:23:11 INFO  TestBase:39 - Creating object of : firefox
+2018-04-23 07:23:26 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-04-23 07:25:36 INFO  TestBase:39 - Creating object of : firefox
+2018-04-23 07:25:48 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-04-23 07:28:17 INFO  TestBase:39 - Creating object of : firefox
+2018-04-23 07:28:27 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-04-23 16:49:34 INFO  TestBase:39 - Creating object of : firefox
+2018-04-23 16:49:54 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-04-24 16:44:22 INFO  TestBase:39 - Creating object of : firefox
+2018-04-24 16:44:43 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-04-24 16:53:36 INFO  TestBase:39 - Creating object of : firefox
+2018-04-24 16:53:45 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-04-24 17:01:27 INFO  TestBase:39 - Creating object of : firefox
+2018-04-24 17:01:48 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-04-24 17:04:28 INFO  TestBase:39 - Creating object of : firefox
+2018-04-24 17:04:38 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-04-24 17:10:19 INFO  TestBase:39 - Creating object of : firefox
+2018-04-24 17:10:28 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-04-24 17:12:55 INFO  TestBase:39 - Creating object of : firefox
+2018-04-24 17:13:02 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-04-24 17:16:40 INFO  TestBase:39 - Creating object of : firefox
+2018-04-24 17:16:48 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-04-24 17:27:30 INFO  TestBase:39 - Creating object of : firefox
+2018-04-24 17:27:45 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-04-24 17:31:42 INFO  TestBase:39 - Creating object of : firefox
+2018-04-24 17:31:54 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-04-24 17:36:15 INFO  TestBase:39 - Creating object of : firefox
+2018-04-24 17:36:29 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-04-24 17:56:12 INFO  TestBase:39 - Creating object of : firefox
+2018-04-24 17:56:25 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-04-24 17:57:55 INFO  TestBase:39 - Creating object of : firefox
+2018-04-24 17:58:05 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-04-24 17:59:34 INFO  TestBase:39 - Creating object of : firefox
+2018-04-24 17:59:43 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-04-24 18:01:03 INFO  TestBase:39 - Creating object of : firefox
+2018-04-24 18:01:13 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-05-12 12:18:01 INFO  TestBase:39 - Creating object of : firefox
+2018-05-12 12:18:19 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-05-12 12:18:30 INFO  TC001_VerifyLoginWithInvalidCredentials:28 - *************Starting verifyLoginWithInvalidCredentials Test*************
+2018-05-12 12:18:33 INFO  HomePage:46 - Clicked on signIn and Object is :[[FirefoxDriver: firefox on XP (a34d334a-5aca-4230-bce9-6b75fd81897f)] -> xpath: /html/body/div/div[1]/header/div[2]/div/div/nav/div[1]/a]
+2018-05-12 12:18:33 INFO  HomePage:49 - Entered email adderss :test@gmail.com and Object is :[[FirefoxDriver: firefox on XP (a34d334a-5aca-4230-bce9-6b75fd81897f)] -> xpath: //*[@id='email']]
+2018-05-12 12:18:34 INFO  HomePage:52 - Entered Password : passwordq23e and Object is : [[FirefoxDriver: firefox on XP (a34d334a-5aca-4230-bce9-6b75fd81897f)] -> id: passwd]
+2018-05-12 12:18:36 INFO  HomePage:55 - Clicked Submit button and Object is :[[FirefoxDriver: firefox on XP (a34d334a-5aca-4230-bce9-6b75fd81897f)] -> id: SubmitLogin]
+2018-05-12 12:18:36 INFO  HomePage:60 - Error Message is : Authentication failed.
+2018-05-12 12:18:36 INFO  TC001_VerifyLoginWithInvalidCredentials:33 - *************Finished verifyLoginWithInvalidCredentials Test*************
+2018-05-12 12:19:39 INFO  TestBase:39 - Creating object of : firefox
+2018-05-12 12:19:47 INFO  TestBase:53 - Navigating to : http://automationpractice.com/index.php
+2018-05-12 12:19:58 INFO  TC001_VerifyLoginWithInvalidCredentials:28 - *************Starting verifyLoginWithInvalidCredentials Test*************
+2018-05-12 12:20:01 INFO  HomePage:46 - Clicked on signIn and Object is :[[FirefoxDriver: firefox on XP (a34985aa-bd94-4a5b-8477-7494538a4ad8)] -> xpath: /html/body/div/div[1]/header/div[2]/div/div/nav/div[1]/a]
+2018-05-12 12:20:02 INFO  HomePage:49 - Entered email adderss :test@gmail.com and Object is :[[FirefoxDriver: firefox on XP (a34985aa-bd94-4a5b-8477-7494538a4ad8)] -> xpath: //*[@id='email']]
+2018-05-12 12:20:02 INFO  HomePage:52 - Entered Password : passwordq23e and Object is : [[FirefoxDriver: firefox on XP (a34985aa-bd94-4a5b-8477-7494538a4ad8)] -> id: passwd]
+2018-05-12 12:20:04 INFO  HomePage:55 - Clicked Submit button and Object is :[[FirefoxDriver: firefox on XP (a34985aa-bd94-4a5b-8477-7494538a4ad8)] -> id: SubmitLogin]
+2018-05-12 12:20:04 INFO  HomePage:60 - Error Message is : Authentication failed.
+2018-05-12 12:20:04 INFO  TC001_VerifyLoginWithInvalidCredentials:33 - *************Finished verifyLoginWithInvalidCredentials Test*************

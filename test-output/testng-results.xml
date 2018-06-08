@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28921" started-at="2018-05-12T06:49:39Z" finished-at="2018-05-12T06:50:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28921" started-at="2018-05-12T06:49:39Z" finished-at="2018-05-12T06:50:08Z">
+      <class name="homePage.TC001_VerifyLoginWithInvalidCredentials">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:homePage.TC001_VerifyLoginWithInvalidCredentials@1efef64]" name="setUp" is-config="true" duration-ms="18875" started-at="2018-05-12T12:19:39Z" finished-at="2018-05-12T12:19:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginWithInvalidCredentials()[pri:0, instance:homePage.TC001_VerifyLoginWithInvalidCredentials@1efef64]" name="verifyLoginWithInvalidCredentials" duration-ms="5770" started-at="2018-05-12T12:19:58Z" finished-at="2018-05-12T12:20:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidCredentials -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:homePage.TC001_VerifyLoginWithInvalidCredentials@1efef64]" name="endTest" is-config="true" duration-ms="4242" started-at="2018-05-12T12:20:04Z" finished-at="2018-05-12T12:20:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- homePage.TC001_VerifyLoginWithInvalidCredentials -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
