@@ -30,6 +30,7 @@ public class Testclass {
 	public void endTest() throws InterruptedException{
 		Thread.sleep(4000);
 		dr.close();
+		dr.quit();
 	}
 
 }
